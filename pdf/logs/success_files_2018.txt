@@ -10,6 +10,7 @@ HDFC Bank
 Hindalco Industries
 ICICI Bank
 Indian Oil Corporation
+IndusInd Bank
 Infosys
 ITC
 JSW Steel
@@ -23,5 +24,6 @@ Rajesh Exports
 Tata Consultancy Services
 Tata Motors
 Tata Steel
+UPL
 Vodafone Idea
 Wipro
