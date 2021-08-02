@@ -1,14 +1,21 @@
+Adani Power
+Aditya Birla Capital
+Ambuja Cements
 Axis Bank
 Bajaj Finserv
 Bank of Baroda
 Bharat Petroleum Corporation
 Bharti Airtel
+Federal Bank
+Future Retail
 Grasim Industries
 HCL Technologies
 HDFC
 HDFC Bank
+Hero MotoCorp
 Hindalco Industries
 ICICI Bank
+IDBI Bank
 Indian Oil Corporation
 IndusInd Bank
 Infosys
@@ -21,8 +28,15 @@ Nayara Energy
 Power Finance Corporation
 Punjab National Bank
 Rajesh Exports
+Reliance Capital
+Reliance Infrastructure
+Standard Chartered Bank
+Sun Pharmaceuticals Industries
+Tata Chemicals
+Tata Communications
 Tata Consultancy Services
 Tata Motors
+Tata Power Company
 Tata Steel
 UPL
 Vodafone Idea
